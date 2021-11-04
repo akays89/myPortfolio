@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "The Iron Throne",
+        "summary": "A fullstack app that allows you to take a personality quiz to determine which Game of Thrones character you are most like. Developed using RESTful API, Handlebars.js and Sequalize ORM as the database. Routes created to get data, as well as sessions, authentication and API keys to preotect sensitive data. This project also follows the MVC file sructure paradigm",
+        "github": "https://github.com/akays89/theIronThrone",
+        "deploylink": "https://stormy-bastion-03201.herokuapp.com/",
+        "image": "https://i.ibb.co/q7JdNMc/Iron-Throne.png",
+        "technologies": "Node.js, Express.js, RESTful API, Handlebars.js, Sequalize, MySQL"
+    },
+    {
+        "id": 2,
+        "title": "WeatherGif",
+        "github": "https://github.com/13tinydots/project-one",
+        "deploylink": "https://13tinydots.github.io/project-one/",
+        "image": "https://i.ibb.co/D5kq2J2/Weather-Gif.png",
+        "summary": "This is a fun and informative Weather App that lets you search weather in any city and displays a gif that corresponds with the weather conditions such as temperature, humidity and wind speed. There is also an option to enter your mood and it retrieves a gif to match. ",
+        "technologies": "Weatherbit API, Javascript, HTML, CSS, Giphy API "
+    },
+    {
+        "id": 3,
+        "title": "Travel App",
+        "summary": "Once a user signs up for the app, the user can fill out an itinerary for their destination and how long their visit will be. From there, the user can submit an activity they are interested in, and fellow travellers can vote on whether or not they are interested in the event.",
+        "github": "https://github.com/MikeChampion/travel-app-project3",
+        "deploylink": "https://babylon-travel.herokuapp.com/itinerary",
+        "image": "https://i.ibb.co/pfzHkKj/Travel-App.png",
+        "technologies": "MERN stack, Tailwind, IonIcons, Bcrypt, Apollo, GraphQL, JWT tokens"
+
+    },
+    {
+        "id": 4,
+        "title": "Fitness Tracker",
+        "summary": "A back-end focused app made to track daily workouts. Fitness tracker will allow users to create new workout, continue a workout, and collects stats from workout created. Users can also view their stats and past seven workouts. API routes created to connect developed front-end with created backend MongoDB database ",
+        "github": "https://github.com/akays89/workoutTracker",
+        "deploylink": "https://infinite-crag-42548.herokuapp.com/?id=614c9a34e1587800160d7546",
+        "image": "https://i.ibb.co/5sqPQS2/workout-Tracker.png",
+        "technologies": "MongoDB, Express.js, Javascript, Node"
+    },
+    {
+        "id": 5,
+        "title": "Tech Blog",
+        "summary": "This is a CMS-style blog site. It follows the MVC paradigm in its file structure. Handlebars.js is used for the templating language. Sequelize is used ad the ORM and the express-session npm package is used for authentication.",
+        "github": "https://github.com/akays89/techBlog",
+        "deploylink": "https://rocky-ravine-42631.herokuapp.com/",
+        "image": "https://i.ibb.co/tpY7kHf/Tech-Blog.png",
+        "technologies": "MySQL, Sequelize, Handlebars.js, Express, Node, Javascript"
+    },
+    {
+        "id": 6,
+        "title": "Employee Tracker",
+        "summary": "A content managing system built with NoSQL. Employee tracker allows you to add departments, roles, and employees. Employees can by viewed by role or department and if more convenient complete eployee table.",
+        "github": "https://github.com/akays89/employeeTracker",
+        "deploylink": "https://www.loom.com/share/dcdafc7ab0f244f7907b2dc262ec5064",
+        "image": "https://i.ibb.co/CzCyjJY/employee-Tracker.png",
+        "technologies": "Javascript, Node, MySQL, Inquirer "
+
+    }
+]
