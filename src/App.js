@@ -12,7 +12,7 @@ function App() {
     <NavBar />
     <Switch>
       <Route exact path="/" component={Home} />
-      <Route component={Home} path="/" exact />
+      <Route component={Home} path="/home" />
       <Route component={About} path="/about" />
       <Route component={Project} path="/project" />
       <Route component={Contact} path="/contact" />
