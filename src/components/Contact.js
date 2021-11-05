@@ -8,7 +8,7 @@ export default function Contact() {
     return (
         <main className="bg-gray-200 bg-opacity-900 min-h-screen p-12">
         <div className="text-4xl mb-3 flex justify-center text-gray-500 font-bold mb-12">
-            <h3>Click on the icons to connect with me!</h3>
+            <h3>Click on the icons to connect with me!!</h3>
         </div>
         <div className="bg-pink-100 mb-12 rounded-lg shadow-xl p-16 mb-12">
         <ResumeLink />
