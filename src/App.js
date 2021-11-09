@@ -11,7 +11,7 @@ function App() {
     <BrowserRouter>
     <NavBar />
     <Switch>
-    <Redirect exact from="/" to="/home"></Redirect>
+    <Redirect exact from="/myPortfolio" to="/home"></Redirect>
       <Route component={Home} path="/home"/>
       <Route component={About} path="/about" />
       <Route component={Project} path="/project" />
