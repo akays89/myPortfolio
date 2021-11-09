@@ -7,7 +7,7 @@ export default function NavBar() {
         <header className="bg-white-300 rounded-lg">
         <div className="container mx-auto flex justify-around">
             <nav className="text-3xl">
-                <NavLink to="/" exact className="inflex-flex items-center py-6 px-5 mr-4 text-gray-600 font-bold ">
+                <NavLink to="/home" exact className="inflex-flex items-center py-6 px-5 mr-4 text-gray-600 font-bold ">
                     Home
                 </NavLink>
                 <NavLink to="/about" className="inflex-flex items-center py-6 px-5 mr-4 text-gray-600 font-bold ">
