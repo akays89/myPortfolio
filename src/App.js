@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter, Route, Switch,  Redirect} from "react-router-dom";
 import Home from "./components/Home";
 import About from "./components/About";
 import Project from "./components/Project";
@@ -11,7 +11,8 @@ function App() {
     <BrowserRouter>
     <NavBar />
     <Switch>
-      <Route component={Home} path="/" exact />
+    <Redirect exact from="/" to="/home"></Redirect>
+      <Route component={Home} path="/home"/>
       <Route component={About} path="/about" />
       <Route component={Project} path="/project" />
       <Route component={Contact} path="/contact" />
