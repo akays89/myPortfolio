@@ -2,11 +2,11 @@
     {
         "id": 1,
         "title": "The Iron Throne",
-        "summary": "A fullstack app that allows you to take a personality quiz to determine which Game of Thrones character you are most like. Developed using RESTful API, Handlebars.js and Sequalize ORM as the database. Routes created to get data, as well as sessions, authentication and API keys to preotect sensitive data. This project also follows the MVC file sructure paradigm",
+        "summary": "A fullstack app that allows you to take a personality quiz to determine which Game of Thrones character you are most like. Developed using RESTful API, Handlebars.js and Sequelize ORM as the database. Routes created to get data, as well as sessions, authentication and API keys to preotect sensitive data. This project also follows the MVC file sructure paradigm",
         "github": "https://github.com/akays89/theIronThrone",
         "deploylink": "https://stormy-bastion-03201.herokuapp.com/",
         "image": "https://i.ibb.co/q7JdNMc/Iron-Throne.png",
-        "technologies": "Node.js, Express.js, RESTful API, Handlebars.js, Sequalize, MySQL"
+        "technologies": "Node.js, Express.js, RESTful API, Handlebars.js, Sequelize, MySQL"
     },
     {
         "id": 2,
@@ -39,7 +39,7 @@
     {
         "id": 5,
         "title": "Tech Blog",
-        "summary": "This is a CMS-style blog site. It follows the MVC paradigm in its file structure. Handlebars.js is used for the templating language. Sequelize is used ad the ORM and the express-session npm package is used for authentication.",
+        "summary": "This is a CMS-style blog site. It follows the MVC paradigm in its file structure. Handlebars.js is used for the templating language. Sequelize is used as the ORM and the express-session npm package is used for authentication.",
         "github": "https://github.com/akays89/techBlog",
         "deploylink": "https://rocky-ravine-42631.herokuapp.com/",
         "image": "https://i.ibb.co/tpY7kHf/Tech-Blog.png",
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "title": "Employee Tracker",
-        "summary": "A content managing system built with NoSQL. Employee tracker allows you to add departments, roles, and employees. Employees can by viewed by role or department and if more convenient complete eployee table.",
+        "summary": "A content managing system built with NoSQL. Employee tracker allows you to add departments, roles, and employees. Employees can by viewed by role or department and if more convenient complete employee table.",
         "github": "https://github.com/akays89/employeeTracker",
         "deploylink": "https://www.loom.com/share/dcdafc7ab0f244f7907b2dc262ec5064",
         "image": "https://i.ibb.co/CzCyjJY/employee-Tracker.png",
